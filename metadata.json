@@ -1,0 +1,5 @@
+{
+  "name": "Kegel Trainer",
+  "description": "An application to guide users through Kegel exercises, track their training history, and provide motivation to help them stay consistent with their routine.",
+  "requestFramePermissions": []
+}
